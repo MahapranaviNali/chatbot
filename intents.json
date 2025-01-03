@@ -192,12 +192,41 @@
   {
     "tag": "premium_dining",
     "patterns": [
-      "Where can I find fine dining in Andhra Pradesh?",
-      "Suggest premium restaurants in Visakhapatnam",
-      "Show me luxury dining places in Vijayawada"
+       "Find premium dining options",
+      "Suggest luxury restaurants in Andhra Pradesh",
+      "Where can I find fine dining in Vijayawada?",
+      "Luxury restaurants in Visakhapatnam",
+      "Fine dining in Guntur",
+      "Suggest fine dining in Ongole",
+      "Where to find luxury restaurants in Kakinada?",
+      "Premium restaurants in Kadapa",
+      "High-end dining options in Anantapur",
+      "What are some luxurious restaurants in Rajahmundry?",
+      "Show me premium dining spots in Nellore",
+      "Are there any fine dining options in Eluru?"
     ],
     "responses": [
-      "For fine dining, try:\n1. Dolphin Hotel, Visakhapatnam\n2. WelcomCafe, Vijayawada\n3. Taj Gateway Hotel, Vijayawada"
+      "For fine dining, try:\n1. Dolphin Hotel, Visakhapatnam\n2. WelcomCafe, Vijayawada\n3. Taj Gateway Hotel, Vijayawada",
+      "Dolphin Hotel, Visakhapatnam - Elegant dining with premium coastal cuisine.",
+      "The Gateway Hotel, Vijayawada - Fine dining with a variety of cuisines.",
+      "WelcomCafe, Guntur - Luxurious dining with exquisite Andhra dishes.",
+      "GreenPark Hotel, Visakhapatnam - Perfect for fine dining with global flavors.",
+      "Taj Gateway, Vijayawada - Premium ambiance with authentic Andhra meals.",
+      "Sai Priya Beach Resort, Visakhapatnam - Beachside dining with seafood specialties.",
+      "Blue Fox, Rajahmundry - Renowned for its continental and Andhra dishes.",
+      "Taj Tirupati - Luxury dining experience with diverse options.",
+      "Ananda Grand, Kakinada - Fine dining with a mix of traditional and modern cuisine.",
+      "Vihari Grand, Nellore - High-end dining with excellent seafood.",
+      "Royal Treat, Ongole - Known for its luxurious setting and gourmet meals.",
+      "Spice Garden, Kadapa - Perfect for a premium dining experience with local flavors.",
+      "Heritage Restaurant, Anantapur - Elegant ambiance with authentic Andhra delicacies.",
+      "Paradise Hotel, Eluru - A fine blend of taste and luxury.",
+      "Hotel Minerva Grand, Kurnool - Premium dining with traditional Andhra cuisine.",
+      "Lotus Restaurant, Ongole - A luxurious experience with diverse gourmet dishes.",
+      "Coastal Spice, Kakinada - Exquisite seafood and Andhra specialties in a premium setting.",
+      "Galaxy Family Restaurant, Kadapa - Known for its upscale ambiance and delightful meals.",
+      "Grand Anantapur, Anantapur - Fine dining with authentic Andhra and North Indian dishes.",
+      "River Bay, Rajahmundry - Riverside dining with elegant settings and delicious food."
     ]
   },
 ]
