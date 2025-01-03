@@ -139,12 +139,39 @@
       "What's the average price range?",
       "Do they have reviews?",
       "What are people saying about this restaurant?",
-      "Can you give me more information about this restaurant?"
+      "Can you give me more information about this restaurant?",
+      "Tell me about Boardwalk in Visakhapatnam",
+      "What is the address of Spicy Venue?",
+      "What are the opening hours of Dolphin Hotel?",
+      "Do they serve vegetarian food at Bezawada Dhaba?",
+      "Give me more information about Sri Annapurna Restaurant",
+      "What is the phone number of WelcomCafe in Vijayawada?",
+      "Where is Aloha Cafe located?",
+      "What is the contact number of Gypsy Resto Cafe?",
+      "What are the timings for Paradise Biryani in Vijayawada?",
+      "Is parking available at Green Park in Visakhapatnam?",
+      "What are the specialties of Kshetra Veg Restaurant in Guntur?",
+      "What kind of food does Amaravati Spice in Guntur serve?",
+      "What is the address of The Hangout in Guntur?",
+      "Where can I find the Fruitify Cafe in Ongole?",
+      "What is the phone number for Lasya Grand Restaurant in Ongole?"
     ],
     "responses": [
-      "Please provide the restaurant name, and I will fetch the details for you.",
-      "Most restaurants offer online menus and reviews on their websites. Let me know the name for specifics.",
-      "Many popular restaurants in Andhra Pradesh provide detailed information on platforms like Zomato or Google Maps."
+      "Boardwalk in Visakhapatnam is located on RK Beach Road. It specializes in seafood and offers a stunning view of the Bay of Bengal. Contact: 987-654-3210. Timings: 11 AM - 11 PM.",
+      "Spicy Venue in Vijayawada is at MG Road. Known for its authentic Andhra meals, including spicy curries. Contact: 123-987-6543. Timings: 10 AM - 10 PM.",
+      "Dolphin Hotel in Visakhapatnam is a luxury dining place on Daba Gardens Road. Famous for its buffet and premium meals. Contact: 789-123-4567. Timings: 12 PM - 11 PM.",
+      "Bezawada Dhaba in Vijayawada is at Benz Circle. It serves authentic dhaba-style meals, including vegetarian options. Contact: 567-890-1234. Timings: 9 AM - 11 PM.",
+      "Sri Annapurna Restaurant in Guntur is near Arundelpet. Renowned for its Andhra-style thali and Gongura dishes. Contact: 456-789-0123. Timings: 9 AM - 10 PM.",
+      "WelcomCafe in Vijayawada is located at the Taj Gateway Hotel on MG Road. It offers fine dining and a variety of cuisines. Contact: 789-456-1230. Timings: 7 AM - 11 PM.",
+      "Aloha Cafe in Vijayawada is situated at Guru Nanak Colony. A great spot for coffee and snacks. Contact: 987-654-3210. Timings: 8 AM - 9 PM.",
+      "Gypsy Resto Cafe in Visakhapatnam is on Yendada Road. Known for its modern ambiance and continental food. Contact: 567-234-8901. Timings: 10 AM - 10 PM.",
+      "Paradise Biryani in Vijayawada is located on MG Road. Famous for its Hyderabadi biryani and kebabs. Contact: 456-123-7890. Timings: 11 AM - 11 PM.",
+      "Green Park in Visakhapatnam is at Waltair Main Road. Offers parking and a luxurious dining experience. Contact: 123-456-7890. Timings: 12 PM - 11 PM.",
+      "Kshetra Veg Restaurant in Guntur is at Brodipet. Specializes in vegetarian Andhra meals. Contact: 987-123-6540. Timings: 8 AM - 10 PM.",
+      "Amaravati Spice in Guntur is located near Ring Road. Famous for spicy Andhra biryanis and curries. Contact: 789-456-0123. Timings: 11 AM - 11 PM.",
+      "The Hangout in Guntur is at Lakshmipuram Main Road. Great for casual dining and desserts. Contact: 567-890-4321. Timings: 10 AM - 10 PM.",
+      "Fruitify Cafe in Ongole is near Lawyer Pet. Offers fresh fruit juices and quick bites. Contact: 987-345-2106. Timings: 9 AM - 9 PM.",
+      "Lasya Grand Restaurant in Ongole is located near Samatha Nagar. Renowned for its excellent service and Andhra meals. Contact: 123-765-4321. Timings: 11 AM - 10 PM."
     ]
   }
   {
