@@ -272,5 +272,44 @@
       "For scenic celebrations, Sai Priya Beach Resort in Visakhapatnam or Coastal Spice in Kakinada are perfect.",
       "For get-togethers, Chaitanya Food Court in Guntur and Roti Restaurant in Visakhapatnam are great choices."
     ]
+  },
+  {
+    "tag": "cuisine_type",
+    "patterns": [
+      "Where can I find authentic Andhra cuisine?",
+      "Suggest some seafood restaurants",
+      "I want vegetarian food",
+      "Show me some places for biryani",
+      "Suggest Chinese restaurants in Vijayawada",
+      "What are the best North Indian restaurants in Visakhapatnam?",
+      "Find Italian food in Guntur",
+      "Are there any good cafes in Tirupati?",
+      "Where can I get BBQ in Kurnool?",
+      "I need South Indian food options in Rajahmundry",
+      "Where to eat traditional food in Ongole?",
+      "What are the top bakeries in Nellore?"
+    ],
+    "responses": [
+      "Here are some suggestions based on your request:",
+      "Vijayawada:\nSpicy Venue: Famous for Andhra meals\nBBQ Nation: Great for grilled food\nMinerva Grand: Perfect for vegetarian South Indian dishes",
+      "Visakhapatnam:\nSea Spice by Chef Mandar: Excellent seafood\nMing Garden: Authentic Chinese cuisine\nZaffran: Specializes in North Indian dishes",
+      "Guntur:\nSri Annapurna Restaurant: Authentic Andhra thalis\nAmity Multicuisine: Italian and continental options\nGolden Pavilion: Known for biryani and kebabs",
+      "Tirupati: \nBlissful Bites Cafe: Cozy spot for desserts and coffee\nWoodside Restaurant: Renowned for North Indian cuisine\nHotel Minerva: Authentic vegetarian dishes",
+      "Kurnool:\nBBQ Avenue: Best for barbecues\nNayaab Biryani House: Famous for biryani\nSpice Hub: Tasty Andhra meals",
+      "Rajahmundry:\nAndhra Spice: Traditional Andhra flavors\nRiver Bay: Great for riverside dining\nSesha’s Kitchen: Offers home-style meals",
+      "Ongole: \nLasya Grand: Delicious vegetarian options\nReddy’s Dhaba: Rustic charm with authentic food\nBiryani Palace: Known for aromatic biryanis",
+      "Nellore:\nBaker’s Cafe: Renowned for pastries and snacks\nCoastal Feast: Amazing seafood options\nSouthern Spice: South Indian cuisine at its best",
+      "Here are some authentic Andhra cuisine restaurants in Vijayawada:",
+      "Spicy Venue: Known for traditional Andhra meals.",
+      "Swagruha Foods: Offers home-style meals and tiffins.",
+      "For seafood lovers in Visakhapatnam, try:\nSea Inn: Fresh and delicious coastal seafood.\nBoardwalk: Great for seafood platters with ocean views.",
+      "For vegetarian options in Guntur: \nKshetra Veg Restaurant: Delicious vegetarian meals.\nAnnapurna: Popular for pure veg thalis.",
+      "If you’re craving biryani in Tirupati:\nParadise Biryani: Renowned for flavorful biryanis.\nNaidu Gari Kunda Biryani: Unique clay pot biryanis.",
+      "For Chinese cuisine in Rajahmundry:\nDragon’s Delight: Authentic Chinese dishes.\nChina Town: A mix of Indo-Chinese flavors.",
+      "If Italian food is what you seek in Visakhapatnam:\nLittle Italy: Famous for pasta and pizzas.\nRoma Cucina: A cozy spot for authentic Italian cuisine.",
+      "For North Indian cuisine in Vijayawada:\nPunjab Grill: Rich and flavorful Punjabi dishes.\nRoti Pe Boti: A perfect spot for tandoori delights.",
+      "For continental delights in Kakinada:\nThe Olive Bistro: A fine dining experience.\nContinental Cravings: Great for steaks and grills.",
+      "For South Indian food in Nellore:\nMinerva Coffee Shop: Known for South Indian breakfast.\nMurali Krishna Veg Restaurant: Authentic Nellore dishes."
+    ]
   }
 ]
