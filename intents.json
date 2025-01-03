@@ -241,4 +241,36 @@
       "River Bay, Rajahmundry - Riverside dining with elegant settings and delicious food."
     ]
   },
+  {
+    "tag": "special_occasions",
+    "patterns": [
+      "Suggest restaurants for a romantic dinner",
+      "Where can I celebrate a birthday in Andhra Pradesh?",
+      "Find restaurants for anniversaries",
+      "Show me places for a family gathering",
+      "Where to have a formal dinner party?",
+      "Best restaurants for weddings in Vijayawada",
+      "Luxury dining spots for special events in Visakhapatnam",
+      "Where can I host a corporate lunch?",
+      "Restaurants with private dining rooms in Guntur",
+      "Romantic dinner spots in Nellore",
+      "Family-friendly restaurants in Rajahmundry",
+      "Show me restaurants for celebrations in Tirupati",
+      "Find scenic restaurants for special occasions",
+      "Best venues for a get-together in Ongole",
+      "Top restaurants for birthday parties in Kakinada"
+    ],
+    "responses": [
+      "For a romantic dinner, try Dolphin Hotel in Visakhapatnam or Taj Gateway in Vijayawada.",
+      "For birthdays, Blue Fox in Rajahmundry and Sai Priya Beach Resort in Visakhapatnam are great choices.",
+      "For anniversaries, consider Lotus Restaurant in Ongole or Ananda Grand in Kakinada.",
+      "For family gatherings, Heritage Restaurant in Anantapur and Paradise Hotel in Eluru are ideal.",
+      "For formal dinner parties, GreenPark Hotel in Visakhapatnam or WelcomCafe in Guntur are excellent.",
+      "For weddings, River Bay in Rajahmundry offers beautiful settings with great dining.",
+      "For corporate lunches, try Hotel Minerva Grand in Kurnool or Taj Tirupati.",
+      "For private dining, Royal Treat in Ongole or Galaxy Family Restaurant in Kadapa provide exclusive spaces.",
+      "For scenic celebrations, Sai Priya Beach Resort in Visakhapatnam or Coastal Spice in Kakinada are perfect.",
+      "For get-togethers, Chaitanya Food Court in Guntur and Roti Restaurant in Visakhapatnam are great choices."
+    ]
+  }
 ]
