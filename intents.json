@@ -159,4 +159,15 @@
       "Here are some budget-friendly options:\n1. Bezawada Dhaba, Vijayawada\n2. Chaitanya Food Court, Guntur\n3. Abhiruchi Restaurant, Visakhapatnam"
     ]
   },
+  {
+    "tag": "premium_dining",
+    "patterns": [
+      "Where can I find fine dining in Andhra Pradesh?",
+      "Suggest premium restaurants in Visakhapatnam",
+      "Show me luxury dining places in Vijayawada"
+    ],
+    "responses": [
+      "For fine dining, try:\n1. Dolphin Hotel, Visakhapatnam\n2. WelcomCafe, Vijayawada\n3. Taj Gateway Hotel, Vijayawada"
+    ]
+  },
 ]
