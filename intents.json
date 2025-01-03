@@ -147,4 +147,16 @@
       "Many popular restaurants in Andhra Pradesh provide detailed information on platforms like Zomato or Google Maps."
     ]
   }
+  {
+    "tag": "budget_friendly",
+    "patterns": [
+      "Find budget-friendly restaurants",
+      "I want cheap eats in Vijayawada",
+      "Show me economical places to eat in Visakhapatnam",
+      "What are some affordable restaurants in Guntur?"
+    ],
+    "responses": [
+      "Here are some budget-friendly options:\n1. Bezawada Dhaba, Vijayawada\n2. Chaitanya Food Court, Guntur\n3. Abhiruchi Restaurant, Visakhapatnam"
+    ]
+  },
 ]
